@@ -23,7 +23,7 @@ public class HelloWorld {
      * shortcut option-command-l, or the menu item Code > Reformat Code.
      */
     public static void main(String[] args) {
-
-        // todo: place your code to print "Hello World" here
+        System.out.println("Hello World");
+        
     }
 }
